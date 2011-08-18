@@ -1,4 +1,4 @@
 Usage
 -----
 
-var sum = $(selector).sum();
+	var sum = $(selector).sum();
